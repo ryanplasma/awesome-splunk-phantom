@@ -5,6 +5,11 @@
 
 A collection of awesome resources built for and around the [Splunk Phantom](https://www.splunk.com/en_us/software/splunk-security-orchestration-and-automation.html) platform.
 
+## Table of Contents
+* [Playbooks](#playbooks)
+* [Apps](#apps)
+* [Other](#other)
+
 ## Playbooks
 * [Official Community Playbooks](https://github.com/phantomcyber/playbooks)
 

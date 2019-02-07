@@ -13,4 +13,4 @@ A collection of awesome resources built for and around the [Splunk Phantom](http
 
 ## Other
 * [PDF Report Generator](https://github.com/Julien-Bernard/phantom_report)
-* [Ouija](https://github.com/phantomcyber/playbooks) - Command Line Build Tool for Splunk Phantom App Development
+* [Ouija](https://github.com/phantomcyber/playbooks) - Command Line Build Tool for Splunk Phantom App Development.

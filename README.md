@@ -20,7 +20,6 @@ A collection of awesome resources built for and around the [Splunk Phantom](http
 ## Other
 * [phantom-docker](https://github.com/benzies/phantom-docker) - Instructions for getting Splunk Phantom working in Docker.
 * [phantom_report](https://github.com/Julien-Bernard/phantom_report) - PDF Report Generator
-* [ouija](https://github.com/phantomcyber/playbooks) - Command line build tool for Splunk Phantom app development.
 
 ## Training
 * [Official Splunk Training](https://www.splunk.com/en_us/training/learning-path/courses-for-phantom/overview.html)

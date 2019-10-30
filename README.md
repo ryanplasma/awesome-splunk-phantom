@@ -15,6 +15,7 @@ A collection of awesome resources built for and around the [Splunk Phantom](http
 * [Official Community Playbooks](https://github.com/phantomcyber/playbooks)
 
 ## Apps
+* [Offical Phantom App Repo](https://github.com/phantomcyber/phantom-apps)
 * [wget](https://github.com/aaronsdevera/phantom)
 
 ## Other

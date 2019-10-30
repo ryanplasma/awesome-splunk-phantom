@@ -18,6 +18,7 @@ A collection of awesome resources built for and around the [Splunk Phantom](http
 * [wget](https://github.com/aaronsdevera/phantom)
 
 ## Other
+* [phantom_api](https://github.com/satellite-no/phantom_api) - Python module to interact with the Phantom API
 * [phantom-docker](https://github.com/benzies/phantom-docker) - Instructions for getting Splunk Phantom working in Docker.
 * [phantom_report](https://github.com/Julien-Bernard/phantom_report) - PDF Report Generator
 

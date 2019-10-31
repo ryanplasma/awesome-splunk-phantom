@@ -20,6 +20,7 @@ A collection of awesome resources built for and around the [Splunk Phantom](http
 
 ## Other
 * [phantom_api](https://github.com/satellite-no/phantom_api) - Python module to interact with the Phantom API
+* [phantasm](https://github.com/0x706972686f/Phantasm) - A test automation framework built for Splunk Phantom Playbooks.
 * [phantom-docker](https://github.com/benzies/phantom-docker) - Instructions for getting Splunk Phantom working in Docker.
 * [phantom_report](https://github.com/Julien-Bernard/phantom_report) - PDF Report Generator
 
